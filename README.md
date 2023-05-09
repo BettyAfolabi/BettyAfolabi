@@ -1,7 +1,8 @@
+![logo](betty.jpg)
 <h1 align="center">Hi 👋, I'm Elizabeth Afolabi</h1>
 <h3 align="center">A frontend developer, still learning😃</h3>
 
-<img align ="right" alt="coding" width="300" height="300" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif">
+<img align ="right" alt="coding" width="250" height="300" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif">
 
 
 - 🌱 I’m currently learning **React and vue**
