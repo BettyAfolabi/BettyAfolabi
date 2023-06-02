@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and vite**
 
-- 👨‍💻 All of my projects are available at [https://betty-portfolio.netlify.app/](https://betty-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://betty-portfolio.netlify.app/](https://elizabeth-afolabi.netlify.app/)
 
 - 📫 How to reach me **betty4web@gmail.com**
 
