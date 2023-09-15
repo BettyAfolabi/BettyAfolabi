@@ -5,7 +5,7 @@
 <img align ="right" alt="coding" width="250" height="300" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif">
 
 
-- 🌱 I’m currently learning **React and vite**
+- 🌱 I’m currently learning **Typescript and Material UI**
 
 - 👨‍💻 All of my projects are available at [https://betty-portfolio.netlify.app/](https://elizabeth-afolabi.netlify.app/)
 
