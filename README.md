@@ -5,9 +5,9 @@
 <img align ="right" alt="coding" width="250" height="300" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif">
 
 
-- 🌱 I’m currently learning **Typescript and Material UI**
+- 🌱 I’m currently learning about **Software Testing**
 
-- 👨‍💻 All of my projects are available at [https://betty-portfolio.netlify.app/](https://elizabeth-afolabi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://elizabeth-afolabi.netlify.app/](https://elizabeth-afolabi.netlify.app/)
 
 - 📫 How to reach me **betty4web@gmail.com**
 
