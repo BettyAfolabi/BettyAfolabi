@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Software Testing**
 
-- 👨‍💻 Some of my projects are available at [https://devduchess.betty4web.workers.dev] (my portfolio)
+- 👨‍💻 Some of my projects are available at [my portfolio](https://devduchess.betty4web.workers.dev)
 
 - 📫 How to reach me **betty4web@gmail.com**
 
