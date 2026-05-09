@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Software Testing**
 
-- 👨‍💻 All of my projects are available at [https://elizabeth-afolabi.netlify.app/](https://elizabeth-afolabi.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://devduchess.betty4web.workers.dev/](my portfolio)
 
 - 📫 How to reach me **betty4web@gmail.com**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devduchess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devduchess" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elizabethafolabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabethafolabi" height="30" width="40" /></a>
+<a href="https://x.com/devduchess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devduchess" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elizabethafolabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabethafolabi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
